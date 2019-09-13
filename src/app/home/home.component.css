@@ -1,0 +1,26 @@
+h1{
+    padding: 10px;
+}
+
+h3{
+    padding: 10px;
+}
+
+.resources{
+    display: flex;
+    justify-content: center;
+}
+
+.link-item{
+    background-color: #C3002F;
+    color: white;
+    padding: 50px;
+    margin: 10px;
+    font-size: 25px;
+    border-radius: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
